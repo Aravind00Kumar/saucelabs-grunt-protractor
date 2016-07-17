@@ -59,8 +59,8 @@
 
             function activate(vm) {
                 init(vm);
-                todoService.add('Hello World');
-
+                //seed
+                //todoService.add('Hello World');
             }
 
             function clear(vm) {
