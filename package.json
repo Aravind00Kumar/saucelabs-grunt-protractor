@@ -1,0 +1,28 @@
+{
+  "name": "saucelabs-grunt-protractor",
+  "version": "1.0.0",
+  "description": "Sample project to run protractor tests in saucelabs using grunt task runner",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aravind00Kumar/saucelabs-grunt-protractor.git"
+  },
+  "keywords": [
+    "protractor",
+    "saucelabs"
+  ],
+  "author": "Aravind Kumar P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aravind00Kumar/saucelabs-grunt-protractor/issues"
+  },
+  "homepage": "https://github.com/Aravind00Kumar/saucelabs-grunt-protractor#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-express": "^1.4.1",
+    "grunt-protractor-runner": "^3.2.0"
+  }
+}
